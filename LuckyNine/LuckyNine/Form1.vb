@@ -15,4 +15,8 @@
             Beep()
         End If
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Randomize()
+    End Sub
 End Class
