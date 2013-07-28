@@ -1,0 +1,10 @@
+D:\VbNetBook\CopyTextToButton\bin\Debug\CopyTextToButton.exe.config
+D:\VbNetBook\CopyTextToButton\bin\Debug\CopyTextToButton.exe
+D:\VbNetBook\CopyTextToButton\bin\Debug\CopyTextToButton.pdb
+D:\VbNetBook\CopyTextToButton\bin\Debug\CopyTextToButton.xml
+D:\VbNetBook\CopyTextToButton\obj\Debug\CopyTextToButton.Form1.resources
+D:\VbNetBook\CopyTextToButton\obj\Debug\CopyTextToButton.Resources.resources
+D:\VbNetBook\CopyTextToButton\obj\Debug\CopyTextToButton.vbproj.GenerateResource.Cache
+D:\VbNetBook\CopyTextToButton\obj\Debug\CopyTextToButton.exe
+D:\VbNetBook\CopyTextToButton\obj\Debug\CopyTextToButton.xml
+D:\VbNetBook\CopyTextToButton\obj\Debug\CopyTextToButton.pdb
