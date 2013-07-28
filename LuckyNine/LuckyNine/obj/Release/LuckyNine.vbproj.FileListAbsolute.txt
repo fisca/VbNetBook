@@ -1,0 +1,10 @@
+D:\VbNetBook\LuckyNine\LuckyNine\bin\Release\LuckyNine.exe.config
+D:\VbNetBook\LuckyNine\LuckyNine\bin\Release\LuckyNine.exe
+D:\VbNetBook\LuckyNine\LuckyNine\bin\Release\LuckyNine.pdb
+D:\VbNetBook\LuckyNine\LuckyNine\bin\Release\LuckyNine.xml
+D:\VbNetBook\LuckyNine\LuckyNine\obj\Release\LuckyNine.Form1.resources
+D:\VbNetBook\LuckyNine\LuckyNine\obj\Release\LuckyNine.Resources.resources
+D:\VbNetBook\LuckyNine\LuckyNine\obj\Release\LuckyNine.vbproj.GenerateResource.Cache
+D:\VbNetBook\LuckyNine\LuckyNine\obj\Release\LuckyNine.exe
+D:\VbNetBook\LuckyNine\LuckyNine\obj\Release\LuckyNine.xml
+D:\VbNetBook\LuckyNine\LuckyNine\obj\Release\LuckyNine.pdb
