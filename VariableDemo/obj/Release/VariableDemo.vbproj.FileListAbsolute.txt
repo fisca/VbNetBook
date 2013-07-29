@@ -1,0 +1,10 @@
+D:\VbNetBook\VariableDemo\bin\Release\VariableDemo.exe.config
+D:\VbNetBook\VariableDemo\bin\Release\VariableDemo.exe
+D:\VbNetBook\VariableDemo\bin\Release\VariableDemo.pdb
+D:\VbNetBook\VariableDemo\bin\Release\VariableDemo.xml
+D:\VbNetBook\VariableDemo\obj\Release\VariableDemo.Form1.resources
+D:\VbNetBook\VariableDemo\obj\Release\VariableDemo.Resources.resources
+D:\VbNetBook\VariableDemo\obj\Release\VariableDemo.vbproj.GenerateResource.Cache
+D:\VbNetBook\VariableDemo\obj\Release\VariableDemo.exe
+D:\VbNetBook\VariableDemo\obj\Release\VariableDemo.xml
+D:\VbNetBook\VariableDemo\obj\Release\VariableDemo.pdb
