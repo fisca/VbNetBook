@@ -9,11 +9,28 @@
         Label1.Text = CStr(Int(Rnd() * 10))
         Label2.Text = CStr(Int(Rnd() * 10))
         Label3.Text = CStr(Int(Rnd() * 10))
+        Label1.ForeColor = Color.Black
+        Label2.ForeColor = Color.Black
+        Label3.ForeColor = Color.Black
 
-        If (Label1.Text = "9") Or (Label2.Text = "9") Or (Label3.Text = "9") Then
+        If (Label1.Text = "9") Then
+            Label1.ForeColor = Color.Red
             PictureBox1.Visible = True
             Beep()
         End If
+
+        If (Label2.Text = "9") Then
+            Label2.ForeColor = Color.Red
+            PictureBox1.Visible = True
+            Beep()
+        End If
+
+        If (Label3.Text = "9") Then
+            Label3.ForeColor = Color.Red
+            PictureBox1.Visible = True
+            Beep()
+        End If
+
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
