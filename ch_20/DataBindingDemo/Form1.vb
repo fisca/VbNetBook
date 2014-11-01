@@ -28,4 +28,12 @@
         Me.EmployeesTableAdapter.Fill(Me.EmployeesDataSet.Employees)
 
     End Sub
+
+    Private Sub EmployeesBindingSource_PositionChanged(sender As Object, e As EventArgs) Handles EmployeesBindingSource.PositionChanged
+        Dim CurrentRow As DataRowView = EmployeesBindingSource.Current
+        Dim strMessage As String
+        strMessage = CurrentRow.Item("FirstName") & Space(1) & CurrentRow.Item("LastName")
+        MsgBox(strMessage)
+
+    End Sub
 End Class
