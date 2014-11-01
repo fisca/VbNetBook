@@ -1,0 +1,12 @@
+D:\VbNetBook\ch_20\DataBindingDemo\bin\Debug\DataBindingDemo.exe.config
+D:\VbNetBook\ch_20\DataBindingDemo\bin\Debug\Company.mdf
+D:\VbNetBook\ch_20\DataBindingDemo\bin\Debug\Company_log.ldf
+D:\VbNetBook\ch_20\DataBindingDemo\bin\Debug\DataBindingDemo.exe
+D:\VbNetBook\ch_20\DataBindingDemo\bin\Debug\DataBindingDemo.pdb
+D:\VbNetBook\ch_20\DataBindingDemo\bin\Debug\DataBindingDemo.xml
+D:\VbNetBook\ch_20\DataBindingDemo\obj\Debug\DataBindingDemo.Form1.resources
+D:\VbNetBook\ch_20\DataBindingDemo\obj\Debug\DataBindingDemo.Resources.resources
+D:\VbNetBook\ch_20\DataBindingDemo\obj\Debug\DataBindingDemo.vbproj.GenerateResource.Cache
+D:\VbNetBook\ch_20\DataBindingDemo\obj\Debug\DataBindingDemo.exe
+D:\VbNetBook\ch_20\DataBindingDemo\obj\Debug\DataBindingDemo.xml
+D:\VbNetBook\ch_20\DataBindingDemo\obj\Debug\DataBindingDemo.pdb

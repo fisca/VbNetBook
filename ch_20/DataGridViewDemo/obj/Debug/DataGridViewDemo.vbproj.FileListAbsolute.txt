@@ -1,0 +1,12 @@
+D:\VbNetBook\ch_20\DataGridViewDemo\bin\Debug\DataGridViewDemo.exe.config
+D:\VbNetBook\ch_20\DataGridViewDemo\bin\Debug\Company.mdf
+D:\VbNetBook\ch_20\DataGridViewDemo\bin\Debug\Company_log.ldf
+D:\VbNetBook\ch_20\DataGridViewDemo\bin\Debug\DataGridViewDemo.exe
+D:\VbNetBook\ch_20\DataGridViewDemo\bin\Debug\DataGridViewDemo.pdb
+D:\VbNetBook\ch_20\DataGridViewDemo\bin\Debug\DataGridViewDemo.xml
+D:\VbNetBook\ch_20\DataGridViewDemo\obj\Debug\DataGridViewDemo.Form1.resources
+D:\VbNetBook\ch_20\DataGridViewDemo\obj\Debug\DataGridViewDemo.Resources.resources
+D:\VbNetBook\ch_20\DataGridViewDemo\obj\Debug\DataGridViewDemo.vbproj.GenerateResource.Cache
+D:\VbNetBook\ch_20\DataGridViewDemo\obj\Debug\DataGridViewDemo.exe
+D:\VbNetBook\ch_20\DataGridViewDemo\obj\Debug\DataGridViewDemo.xml
+D:\VbNetBook\ch_20\DataGridViewDemo\obj\Debug\DataGridViewDemo.pdb
